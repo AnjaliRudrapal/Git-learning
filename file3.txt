@@ -1,0 +1,15 @@
+press i
+
+happy diwali
+
+esc
+
+shift + collon
+
+wq
+
+enter
+
+w---- save
+q --- quit
+! --- force quit

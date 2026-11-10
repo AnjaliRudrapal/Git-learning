@@ -1,0 +1,7 @@
+Hello, How are you ?
+
+ctrl + x
+
+press y
+
+enter
